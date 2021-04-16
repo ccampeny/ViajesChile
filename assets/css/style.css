@@ -1,0 +1,37 @@
+.icono-svg img {
+    width: 2.5rem;
+    margin-right: 10px;
+  }
+
+body {
+    background-color: #111111;
+    font-family: 'Open Sans', sans-serif;
+    margin: -25px;
+}
+
+.carousel-item img {
+    max-height: 120vh;
+}
+
+
+hr {
+    background-color: #17a3b8;
+    height: 0,8px;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+.logo-font {
+    font-family: 'Londrina Solid', sans-serif;
+    font-size: 30px;
+}
+
+.navbar {
+    transition: all 1s ease;
+}
